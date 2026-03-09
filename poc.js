@@ -1,1 +1,1 @@
-alert('stored xss from github')
+alert('stored xss from github');
